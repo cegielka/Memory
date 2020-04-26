@@ -1,1 +1,62 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>gra memory</title>
+    <link rel="stylesheet" href="CSS memory.css">
+</head>
+<body>
+    <section class="main">
+        <div class="card" data-landscape="polana">
+            <img class="front" src="photo1.jpeg" alt="photo1"/>
+            <img class="back" src="card pattern.jpeg" alt="card pattern"/>
+        </div>
+        <div class="card" data-landscape="polana">
+            <img class="front" src="photo1.jpeg" alt="photo1"/>
+            <img class="back" src="card pattern.jpeg" alt="card pattern"/>
+        </div>
+        <div class="card" data-landscape="mróz">
+            <img class="front" src="photo2.jpeg" alt="photo2"/>
+            <img class="back" src="card pattern.jpeg" alt="card pattern"/>
+        </div>
+        <div class="card" data-landscape="mróz">
+            <img class="front" src="photo2.jpeg" alt="photo2"/>
+            <img class="back" src="card pattern.jpeg" alt="card pattern"/>
+        </div>
+        <div class="card" data-landscape="molo">
+            <img class="front" src="photo3.jpg" alt="photo3"/>
+            <img class="back" src="card pattern.jpeg" alt="card pattern"/>
+        </div>
+        <div class="card" data-landscape="molo">
+            <img class="front" src="photo3.jpg" alt="photo3"/>
+            <img class="back" src="card pattern.jpeg" alt="card pattern"/>
+        </div>
+        <div class="card" data-landscape="śnieg">
+            <img class="front" src="photo4.jpg" alt="photo4"/>
+            <img class="back" src="card pattern.jpeg" alt="card pattern"/>
+        </div>
+        <div class="card" data-landscape="śnieg">
+            <img class="front" src="photo4.jpg" alt="photo4"/>
+            <img class="back" src="card pattern.jpeg" alt="card pattern"/>
+        </div>
+        <div class="card" data-landscape="ocean">
+            <img class="front" src="photo5.jpg" alt="photo5"/>
+            <img class="back" src="card pattern.jpeg" alt="card pattern"/>
+        </div>
+        <div class="card" data-landscape="ocean">
+            <img class="front" src="photo5.jpg" alt="photo5"/>
+            <img class="back" src="card pattern.jpeg" alt="card pattern"/>
+        </div>
+        <div class="card" data-landscape="jezioro">
+            <img class="front" src="photo6.jpg" alt="photo6"/>
+            <img class="back" src="card pattern.jpeg" alt="card pattern"/>
+        </div>
+        <div class="card" data-landscape="jezioro">
+            <img class="front" src="photo6.jpg" alt="photo6"/>
+            <img class="back" src="card pattern.jpeg" alt="card pattern"/>
+        </div>
+    </section>
+    <script src="js memory.js"></script>
+</body>
+</html>
