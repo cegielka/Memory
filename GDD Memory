@@ -1,0 +1,29 @@
+Tytuł:
+
+-memory card game 
+
+-Autor: Adam Cegiełka
+
+Wszystko na temat mechaniki,cechy oraz technik użytych do stworzenia gry:
+
+Gameplay:
+
+-Cele:
+Gracz ma za zadanie dopasować identyczne karty w pary. 
+
+Mechanika:
+
+-Serowanie:
+Wybór karty poprzez myszkę.
+
+Poziomy:
+Gra nie zawiera poziomów.
+
+Interfejs:
+
+-Gra przeglądarkowa
+
+Techniki:
+-HTML
+-JS
+-CSS
